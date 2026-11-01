@@ -1,0 +1,13 @@
+# Intermedios de LaTeX (se conserva .tex y .pdf)
+informe/*.aux
+informe/*.log
+informe/*.out
+informe/*.toc
+informe/*.lof
+informe/*.fls
+informe/*.fdb_latexmk
+informe/*.synctex.gz
+
+# Red de seguridad para artefactos de Flutter (el app ya tiene su .gitignore)
+app_aula_activa/build/
+app_aula_activa/.dart_tool/
